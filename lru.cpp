@@ -1,3 +1,6 @@
+#include <string>
+using namespace std;
+
 struct Cache {
     int pos = 0;
     int next = 0;
